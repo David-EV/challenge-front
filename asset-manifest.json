@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/David-EV/challenge-front/static/js/main.e6979862.chunk.js",
-    "main.js.map": "/David-EV/challenge-front/static/js/main.e6979862.chunk.js.map",
-    "runtime-main.js": "/David-EV/challenge-front/static/js/runtime-main.750f2a92.js",
-    "runtime-main.js.map": "/David-EV/challenge-front/static/js/runtime-main.750f2a92.js.map",
-    "static/js/2.5ac6c98c.chunk.js": "/David-EV/challenge-front/static/js/2.5ac6c98c.chunk.js",
-    "static/js/2.5ac6c98c.chunk.js.map": "/David-EV/challenge-front/static/js/2.5ac6c98c.chunk.js.map",
-    "index.html": "/David-EV/challenge-front/index.html",
-    "static/js/2.5ac6c98c.chunk.js.LICENSE.txt": "/David-EV/challenge-front/static/js/2.5ac6c98c.chunk.js.LICENSE.txt"
+    "main.js": "/challenge-front/static/js/main.e6979862.chunk.js",
+    "main.js.map": "/challenge-front/static/js/main.e6979862.chunk.js.map",
+    "runtime-main.js": "/challenge-front/static/js/runtime-main.f9b1501c.js",
+    "runtime-main.js.map": "/challenge-front/static/js/runtime-main.f9b1501c.js.map",
+    "static/js/2.5ac6c98c.chunk.js": "/challenge-front/static/js/2.5ac6c98c.chunk.js",
+    "static/js/2.5ac6c98c.chunk.js.map": "/challenge-front/static/js/2.5ac6c98c.chunk.js.map",
+    "index.html": "/challenge-front/index.html",
+    "static/js/2.5ac6c98c.chunk.js.LICENSE.txt": "/challenge-front/static/js/2.5ac6c98c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.750f2a92.js",
+    "static/js/runtime-main.f9b1501c.js",
     "static/js/2.5ac6c98c.chunk.js",
     "static/js/main.e6979862.chunk.js"
   ]
