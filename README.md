@@ -1,4 +1,8 @@
 # challenge-front
+Para ver el funcionamiento da clic en el enlace de abajo
+https://david-ev.github.io/challenge-front/
+
+Para correr el proyecto local sigue los siguientes pasos: 
 
 Ubicarse desde la terminal en la carpeta donde desea tener los archivos, ejemplo c:\proyecto\
 
